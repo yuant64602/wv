@@ -1,8 +1,8 @@
 {
-    "status": true,
+    "status": false,
     "type":"0",
     "safeTop":true,
     "safeBottom":true,
     "bar":"light",
-    "url": "https://www.baidu.com"
+    "url": ""
 }
